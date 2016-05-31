@@ -1,2 +1,3 @@
 # hello-world
-!dlrow olleh
+I am a coding kat
+My name is GGvibes
